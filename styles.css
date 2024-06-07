@@ -1,3 +1,8 @@
+:root{
+    --branco-texto: #fff;
+
+}
+
 html,
 body {
     margin: 0;
@@ -11,9 +16,18 @@ body {
     background: #000;
 }
 .contaniner-incial{
-    color: #fff;
+    color: var(--branco-texto);
     text-align: center;
+    justify-content: center;
     padding: 2px;
+}
+
+.contaniner-incial-titulo {
+    color: var(--branco-texto);
+}
+
+.contaniner-incial-paragrafo {
+    color: var(--branco-texto);
 }
 
 .contaniner-incial-botao {
