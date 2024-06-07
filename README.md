@@ -17,3 +17,9 @@ instale pelo site
 https://store.steampowered.com/about/
 ```
 
+Para executar o app.js utiliza esse comando em seu terminal:
+
+```
+node app.js
+```
+
